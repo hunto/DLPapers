@@ -16,7 +16,9 @@
 
 [Dynamic Memory Networks for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417): 4 Mar 2016  
 
-[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065): 19 May 2016  
+[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065): 19 May 2016 
+
+[Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/abs/1606.03126): 9 Jun 2016  
 
 [Hierarchical Memory Networks for Answer Selection on Unknown Words](https://arxiv.org/abs/1609.08843): 28 Sep 2016  
 
