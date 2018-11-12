@@ -1,20 +1,25 @@
 # Memory Networks
 
 [Memory Networks](https://arxiv.org/abs/1410.3916): 15 Oct 2014  
+* [Memory Network系列1 - Memory Networks](https://hunto.github.io/memorynetworks/2018/11/05/Memory-Network%E7%B3%BB%E5%88%971-Memory-Networks.html)
+
 
 [Neural Turing Machines](https://arxiv.org/abs/1410.5401): 20 Oct 2014  
 
-[End-To-End Memory Networks](https://arxiv.org/abs/1503.08895): 31 Mar 2015  
+[End-To-End Memory Networks](https://arxiv.org/abs/1503.08895): 31 Mar 2015
+* [Memory Network系列2 - End-To-End Memory Networks](https://hunto.github.io/memorynetworks/2018/11/05/Memory-Network%E7%B3%BB%E5%88%972-End-To-End-Memory-Networks.html)  
 
 [Recurrent Neural Networks with External Memory for Language Understanding](https://arxiv.org/abs/1506.00195): 31 May 2015  
 
 [Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/abs/1506.02075): 5 Jun 2015  
 
 [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/abs/1506.07285): 24 Jun 2015  
+* [Memory Network系列3 - Dynamic Memory Networks](https://hunto.github.io/memorynetworks/2018/11/05/Memory-Network%E7%B3%BB%E5%88%973-Dynamic-Memory-Networks.html)
 
 [Structured Memory for Neural Turing Machines](https://arxiv.org/abs/1510.03931): 4 Oct 2015  
 
 [Dynamic Memory Networks for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417): 4 Mar 2016  
+* [Memory Network系列4 - Improved Dynamic Memory Networks](https://hunto.github.io/memorynetworks/2018/11/06/Memory-Network%E7%B3%BB%E5%88%974-Improved-Dynamic-Memory-Networks.html)
 
 [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065): 19 May 2016 
 
