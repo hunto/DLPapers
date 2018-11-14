@@ -28,6 +28,7 @@
 * [Hierarchical Memory Networks for Answer Selection on Unknown Words](https://arxiv.org/abs/1609.08843): 28 Sep 2016  
 
 * [Gated End-to-End Memory Networks](https://arxiv.org/abs/1610.04211): 13 Oct 2016  
+    * [Memory Network系列6 - Gated End-To-End Memory Networks](https://hunto.github.io/memorynetworks/2018/11/14/Memory-Network%E7%B3%BB%E5%88%976-Gated-End-To-End-Memory-Networks.html)
 
 * [Reasoning with Memory Augmented Neural Networks for Language Comprehension](https://arxiv.org/abs/1610.06454): 20 Oct 2016  
 
